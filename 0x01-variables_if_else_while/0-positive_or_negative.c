@@ -3,7 +3,8 @@
 #include <time.h>                                                                                                           
 /**                                                                                                                                     
  * main - if and else
- * Return: Always 0   
+ *
+ * Return: Always 0 (Success)
  */                                                                                                                              
 int main(void)                                                                                                                          
 {                                                                                                                                       	     int n;      
