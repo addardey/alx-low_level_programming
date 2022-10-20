@@ -1,11 +1,17 @@
-include "main.h"
+#include "main.h"
 /**
- * main - check the code
+ * _isalpha- checks if the code is an alphabet or not.
  *
- * Return: Always 0
+ * @c: character augment
+ *
+ * Return: 1 if character is letter, lowercase or uppercase, 0
  */
-int main(int _isalpha(int c))
+int _isalpha(int c)
 {
-	return ((c >= 'a' && c <= 'z') || (c >='A' && c <= 'Z'));
+	if
+		((c > = 'a' && c < = 'z') ||
+		 (c > = 'A' && c < = 'Z'));
+	return (1);
+	else
+		return (0);
 }
-
