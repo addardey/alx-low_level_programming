@@ -8,7 +8,7 @@
  *
  * Return: Always 0
  */
-int main(_islower(int c))
+int main('_islower'(int c))
 {
 	return (c >= 'a' && c <= 'z');
 }
