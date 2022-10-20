@@ -2,7 +2,7 @@
 /**
  * main - check the code
  *
- * void print_alphabet_x10 -> prints times ten lowercase alphabets
+ * void print_alphabet_x10 -> prints 10 times lowercase alphabets
  *
  * Return: Always 0
  */
